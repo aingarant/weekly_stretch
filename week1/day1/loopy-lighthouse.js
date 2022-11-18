@@ -1,3 +1,6 @@
+// Jeremy & Aingaran worked on refactoring code
+// with the assistance of Mentor Ahana.
+
 const loopyLighthouse = function(range, multiples, words) {
   //range = start and end values of loop
   for (let i = range[0]; i <= range[1]; i++) {

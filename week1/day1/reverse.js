@@ -3,7 +3,7 @@
 
 const args = process.argv;
 
-args.map(((arg, index) => {
+args.forEach(((arg, index) => {
   if (index > 1 && index < args.length) {
 
     let output = "";
